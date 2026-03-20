@@ -1,0 +1,10 @@
+{
+  "id": "TT-99001",
+  "title": "Reset NTP on vostntc1",
+  "description": "Manual resync required, clock drift noted.",
+  "priority": "Medium",
+  "assignee": "Yehu",
+  "created": "2025-10-22 21:15",
+  "url": "https://service-desk/ticket/TT-99001",
+  "xp": 2
+}

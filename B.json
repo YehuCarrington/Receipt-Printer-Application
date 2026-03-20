@@ -1,0 +1,10 @@
+{
+  "id": "TT-99002",
+  "title": "Voucher topup failures detected in Chaguanas cluster affecting CSR, AppMan + IVR services",
+  "description": "During routine monitoring, observed that voucher refill flow intermittently fails. Suspect Cassandra cluster sync issues between vostntc1 and vostnta3. Customer impact moderate. No graceful degradation observed. IVR is timing out callers.",
+  "priority": "High",
+  "assignee": "Yehu",
+  "created": "2025-10-22 21:18",
+  "url": "https://service-desk/ticket/TT-99002",
+  "xp": 8
+}
